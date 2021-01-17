@@ -171,6 +171,10 @@ body {
   font-weight: bold;
 }
 
+.footer a {
+  color: #60588e;
+}
+
 @media (max-width: 576px) {
   .footer {
     margin-top: 60px;
