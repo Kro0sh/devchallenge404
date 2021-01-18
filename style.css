@@ -192,29 +192,7 @@ body {
   }
 }
 
-@keyframes animateleft {
-  from {
-    left: -300px;
-    opacity: 0;
-  }
-  to {
-    left: 0;
-    opacity: 1;
-  }
-}
-
 @-webkit-keyframes animateEasy {
-  from {
-    opacity: 0;
-    bottom: -100px;
-  }
-  to {
-    opacity: 1;
-    bottom: 0;
-  }
-}
-
-@keyframes animateEasy {
   from {
     opacity: 0;
     bottom: -100px;
